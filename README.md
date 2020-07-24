@@ -1,12 +1,14 @@
 ## ETAMA - Transportation Management System
 
 ## Installation
+
 ``` bash
+# Nodejs download & install https://nodejs.org/en/download/
 # clone the repo
-$ git clone https://github.com/
+$ git clone https://github.com/luhutsihombing/etama_v2
 
 # go into app's directory
-$ cd my-project
+$ cd etama_v2
 
 # install app's dependencies
 $ npm install
