@@ -1,0 +1,143 @@
+// Here you can add other styles
+.etama-body{
+  /*background-image: url("/assets/img/robson-hatsukami-morgan-NKr0qBAkU4s-unsplash 2@2x.png");*/
+}
+.etama-home-content{
+  position: absolute;
+  right: 21.29%;
+  top: 34%;
+}
+.etama-home-trans{
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 55px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFA502;
+
+}
+.etama-better{
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 49px;
+  /* identical to box height */
+}
+.etama-better-p{
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.etama-better-h2{
+font-family: Proza Libre;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 49px;
+align-items: center;
+text-align: center;
+
+color: #FFFAFA;
+}
+.etama-home-nav{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.etama-home-masuk{
+  background: #FFA502;
+  opacity: 0.8;
+  box-shadow: inset 0px 5px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  border:0px;
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+
+  text-align: center;
+  color: #FFFAFA;
+}
+.etama-home-register{
+  background: #FFFFFF;
+  opacity: 0.8;
+  box-shadow: inset 0px 5px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #484848;
+}
+.etama-home-reg{
+  position: absolute;
+  left: 50.43%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: rgba(122, 120, 120, 0.8);
+  border-radius: 40px 0px 0px 40px;
+  min-width: 200px;
+}
+.reg-content{
+  padding: 14rem;
+}
+.etama-card-header{
+  background-color: transparent;
+  border: 0px;
+  color:#ffffff;
+}
+.etama-card-body{
+  background-color: transparent;
+  border: 0px;
+}
+.etama-input{
+  background: #FBFCFD;
+  border: 1px solid rgba(108, 104, 104, 0.3);
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+.etama-txt-clr-1{
+  color: #ffffff;
+}
+.etama-txt-style-1{
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+}
+.etama-txt-style-2{
+  padding-top: 0.75rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 17px;
+  /* or 142% */
+
+  text-align: center;
+  text-decoration-line: underline;
+}
+.etma-btn-reg{
+  background: #1C3269;
+  opacity: 0.8;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  border:0px;
+}
+.etama-h1-reg{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 17px;
+}
